@@ -1,0 +1,15 @@
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\bin\Debug\net8.0\NhapXuat_Bai2.exe
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\bin\Debug\net8.0\NhapXuat_Bai2.deps.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\bin\Debug\net8.0\NhapXuat_Bai2.runtimeconfig.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\bin\Debug\net8.0\NhapXuat_Bai2.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\bin\Debug\net8.0\NhapXuat_Bai2.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\obj\Debug\net8.0\NhapXuat_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\obj\Debug\net8.0\NhapXuat_Bai2.AssemblyInfoInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\obj\Debug\net8.0\NhapXuat_Bai2.AssemblyInfo.cs
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\obj\Debug\net8.0\NhapXuat_Bai2.csproj.CoreCompileInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\obj\Debug\net8.0\NhapXuat_Bai2.sourcelink.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\obj\Debug\net8.0\NhapXuat_Bai2.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\obj\Debug\net8.0\refint\NhapXuat_Bai2.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\obj\Debug\net8.0\NhapXuat_Bai2.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\obj\Debug\net8.0\NhapXuat_Bai2.genruntimeconfig.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NhapXuat_Bai1\NhapXuat_Bai2\obj\Debug\net8.0\ref\NhapXuat_Bai2.dll

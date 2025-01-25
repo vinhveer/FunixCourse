@@ -1,0 +1,17 @@
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\bin\Debug\net8.0-windows\BaiTap_Bai1.exe
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\bin\Debug\net8.0-windows\BaiTap_Bai1.deps.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\bin\Debug\net8.0-windows\BaiTap_Bai1.runtimeconfig.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\bin\Debug\net8.0-windows\BaiTap_Bai1.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\bin\Debug\net8.0-windows\BaiTap_Bai1.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\BaiTap_Bai1.HienThiLoiChao.resources
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\BaiTap_Bai1.csproj.GenerateResource.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\BaiTap_Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\BaiTap_Bai1.AssemblyInfoInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\BaiTap_Bai1.AssemblyInfo.cs
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\BaiTap_Bai1.csproj.CoreCompileInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\BaiTap_Bai1.sourcelink.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\BaiTap_Bai1.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\refint\BaiTap_Bai1.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\BaiTap_Bai1.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\BaiTap_Bai1.genruntimeconfig.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\LuyenTapWindowsForms\BaiTap_Bai1\obj\Debug\net8.0-windows\ref\BaiTap_Bai1.dll

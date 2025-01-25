@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.cshtml": "aspnetcorerazor",
+        "istream": "cpp",
+        "format": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp"
+    }
+}

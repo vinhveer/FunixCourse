@@ -1,0 +1,15 @@
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\bin\Debug\net8.0\ExampleMaxMin.exe
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\bin\Debug\net8.0\ExampleMaxMin.deps.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\bin\Debug\net8.0\ExampleMaxMin.runtimeconfig.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\bin\Debug\net8.0\ExampleMaxMin.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\bin\Debug\net8.0\ExampleMaxMin.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\obj\Debug\net8.0\ExampleMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\obj\Debug\net8.0\ExampleMaxMin.AssemblyInfoInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\obj\Debug\net8.0\ExampleMaxMin.AssemblyInfo.cs
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\obj\Debug\net8.0\ExampleMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\obj\Debug\net8.0\ExampleMaxMin.sourcelink.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\obj\Debug\net8.0\ExampleMaxMin.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\obj\Debug\net8.0\refint\ExampleMaxMin.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\obj\Debug\net8.0\ExampleMaxMin.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\obj\Debug\net8.0\ExampleMaxMin.genruntimeconfig.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleMaxMin\ExampleMaxMin\obj\Debug\net8.0\ref\ExampleMaxMin.dll

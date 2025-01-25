@@ -1,0 +1,17 @@
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\bin\Debug\net8.0-windows\NotePad.exe
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\bin\Debug\net8.0-windows\NotePad.deps.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\bin\Debug\net8.0-windows\NotePad.runtimeconfig.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\bin\Debug\net8.0-windows\NotePad.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\bin\Debug\net8.0-windows\NotePad.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\NotePad.Form1.resources
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\NotePad.sourcelink.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\NotePad.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\refint\NotePad.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\NotePad.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\NotePad\NotePad\obj\Debug\net8.0-windows\ref\NotePad.dll

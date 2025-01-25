@@ -1,0 +1,17 @@
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\bin\Debug\net8.0-windows\Chuong3_NangCao.exe
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\bin\Debug\net8.0-windows\Chuong3_NangCao.deps.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\bin\Debug\net8.0-windows\Chuong3_NangCao.runtimeconfig.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\bin\Debug\net8.0-windows\Chuong3_NangCao.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\bin\Debug\net8.0-windows\Chuong3_NangCao.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\Chuong3_NangCao.Form1.resources
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\Chuong3_NangCao.csproj.GenerateResource.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\Chuong3_NangCao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\Chuong3_NangCao.AssemblyInfoInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\Chuong3_NangCao.AssemblyInfo.cs
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\Chuong3_NangCao.csproj.CoreCompileInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\Chuong3_NangCao.sourcelink.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\Chuong3_NangCao.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\refint\Chuong3_NangCao.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\Chuong3_NangCao.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\Chuong3_NangCao.genruntimeconfig.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\Chuong3_NangCao\Chuong3_NangCao\obj\Debug\net8.0-windows\ref\Chuong3_NangCao.dll

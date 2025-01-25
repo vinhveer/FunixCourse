@@ -1,0 +1,15 @@
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\bin\Debug\net8.0\ProductManagementStatic.exe
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\bin\Debug\net8.0\ProductManagementStatic.deps.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\bin\Debug\net8.0\ProductManagementStatic.runtimeconfig.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\bin\Debug\net8.0\ProductManagementStatic.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\bin\Debug\net8.0\ProductManagementStatic.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\obj\Debug\net8.0\ProductManagementStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\obj\Debug\net8.0\ProductManagementStatic.AssemblyInfoInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\obj\Debug\net8.0\ProductManagementStatic.AssemblyInfo.cs
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\obj\Debug\net8.0\ProductManagementStatic.csproj.CoreCompileInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\obj\Debug\net8.0\ProductManagementStatic.sourcelink.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\obj\Debug\net8.0\ProductManagementStatic.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\obj\Debug\net8.0\refint\ProductManagementStatic.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\obj\Debug\net8.0\ProductManagementStatic.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\obj\Debug\net8.0\ProductManagementStatic.genruntimeconfig.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_core_console\ProductManagementStatic\obj\Debug\net8.0\ref\ProductManagementStatic.dll

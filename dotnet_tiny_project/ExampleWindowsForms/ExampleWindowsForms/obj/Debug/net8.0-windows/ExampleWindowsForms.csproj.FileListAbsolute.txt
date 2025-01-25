@@ -1,0 +1,17 @@
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\bin\Debug\net8.0-windows\ExampleWindowsForms.exe
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\bin\Debug\net8.0-windows\ExampleWindowsForms.deps.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\bin\Debug\net8.0-windows\ExampleWindowsForms.runtimeconfig.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\bin\Debug\net8.0-windows\ExampleWindowsForms.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\bin\Debug\net8.0-windows\ExampleWindowsForms.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ExampleWindowsForms.Form1.resources
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ExampleWindowsForms.csproj.GenerateResource.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ExampleWindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ExampleWindowsForms.AssemblyInfoInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ExampleWindowsForms.AssemblyInfo.cs
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ExampleWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ExampleWindowsForms.sourcelink.json
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ExampleWindowsForms.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\refint\ExampleWindowsForms.dll
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ExampleWindowsForms.pdb
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ExampleWindowsForms.genruntimeconfig.cache
+C:\Users\vinhnq\Desktop\Tutorial\dotnet_tiny_project\ExampleWindowsForms\ExampleWindowsForms\obj\Debug\net8.0-windows\ref\ExampleWindowsForms.dll

@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_tiny_project\\mathgame\\usercontrolplaygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|solutionrelative:usercontrolplaygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_tiny_project\\mathgame\\usercontrolplaygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|solutionrelative:usercontrolplaygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_tiny_project\\mathgame\\mathgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|solutionrelative:mathgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_tiny_project\\mathgame\\mathgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|solutionrelative:mathgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_tiny_project\\mathgame\\usercontrolstartgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|solutionrelative:usercontrolstartgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_tiny_project\\mathgame\\usercontrolstartgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|solutionrelative:usercontrolstartgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_tiny_project\\mathgame\\usercontrolendgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|solutionrelative:usercontrolendgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_tiny_project\\mathgame\\usercontrolendgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|solutionrelative:usercontrolendgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_tiny_project\\mathgame\\usercontrolendgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|solutionrelative:usercontrolendgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_tiny_project\\mathgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BA21D1-758C-4E9A-97A2-8A68C2FD50D6}|MathGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\MathGame.cs",
+              "RelativeDocumentMoniker": "MathGame.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\MathGame.cs [Design]",
+              "RelativeToolTip": "MathGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:38:06.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathGame.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\MathGame.cs",
+              "RelativeDocumentMoniker": "MathGame.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\MathGame.cs",
+              "RelativeToolTip": "MathGame.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:01:05.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlPlayGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlPlayGame.cs",
+              "RelativeDocumentMoniker": "UserControlPlayGame.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlPlayGame.cs [Design]",
+              "RelativeToolTip": "UserControlPlayGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:39:59.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlPlayGame.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlPlayGame.cs",
+              "RelativeDocumentMoniker": "UserControlPlayGame.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlPlayGame.cs",
+              "RelativeToolTip": "UserControlPlayGame.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:33:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControlStartGame.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlStartGame.cs",
+              "RelativeDocumentMoniker": "UserControlStartGame.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlStartGame.cs",
+              "RelativeToolTip": "UserControlStartGame.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:38:21.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControlStartGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlStartGame.cs",
+              "RelativeDocumentMoniker": "UserControlStartGame.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlStartGame.cs [Design]",
+              "RelativeToolTip": "UserControlStartGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:40:00.032Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControlEndGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlEndGame.cs",
+              "RelativeDocumentMoniker": "UserControlEndGame.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlEndGame.cs [Design]",
+              "RelativeToolTip": "UserControlEndGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:49:49.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControlEndGame.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlEndGame.cs",
+              "RelativeDocumentMoniker": "UserControlEndGame.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlEndGame.cs",
+              "RelativeToolTip": "UserControlEndGame.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:26:31.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControlEndGame.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlEndGame.Designer.cs",
+              "RelativeDocumentMoniker": "UserControlEndGame.Designer.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\UserControlEndGame.Designer.cs",
+              "RelativeToolTip": "UserControlEndGame.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwEoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:49:40.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_tiny_project\\MathGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:40:42.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
