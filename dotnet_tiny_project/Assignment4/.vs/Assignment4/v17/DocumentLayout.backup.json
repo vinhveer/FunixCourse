@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\assignment4\\themsinhvienmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|solutionrelative:themsinhvienmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\assignment4\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\assignment4\\data\\sinhviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|solutionrelative:data\\sinhviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\assignment4\\data\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|solutionrelative:data\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\assignment4\\data\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|solutionrelative:data\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\assignment4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\assignment4\\themsinhvienmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA481F6-E6B8-44F9-9B2F-E94A9404EF30}|Assignment4.csproj|solutionrelative:themsinhvienmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVienContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\Data\\SinhVienContext.cs",
+              "RelativeDocumentMoniker": "Data\\SinhVienContext.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\Data\\SinhVienContext.cs",
+              "RelativeToolTip": "Data\\SinhVienContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:09:32.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:59:23.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThemSinhVienMoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\ThemSinhVienMoi.cs",
+              "RelativeDocumentMoniker": "ThemSinhVienMoi.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\ThemSinhVienMoi.cs [Design]",
+              "RelativeToolTip": "ThemSinhVienMoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:13:53.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:59:35.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\Data\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Data\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\Data\\SinhVien.cs",
+              "RelativeToolTip": "Data\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:10:36.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\Data\\Lop.cs",
+              "RelativeDocumentMoniker": "Data\\Lop.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\Data\\Lop.cs",
+              "RelativeToolTip": "Data\\Lop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:12:20.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:06:48.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThemSinhVienMoi.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\ThemSinhVienMoi.cs",
+              "RelativeDocumentMoniker": "ThemSinhVienMoi.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\Assignment4\\ThemSinhVienMoi.cs",
+              "RelativeToolTip": "ThemSinhVienMoi.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:41:21.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
